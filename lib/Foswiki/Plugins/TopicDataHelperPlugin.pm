@@ -19,7 +19,7 @@ use warnings;
 use Assert;
 use Foswiki::Func();
 
-our $VERSION = '$Rev$';
+our $VERSION = '1.1';
 our $RELEASE = "1.1";
 our $SHORTDESCRIPTION =
   'helper plugin for collecting, filtering and sorting data objects';
@@ -807,3 +807,4 @@ sub _debugData {
 }
 
 1;
+
